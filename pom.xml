@@ -37,8 +37,7 @@
 		<dependency>
 			<groupId>org.spigotmc</groupId>
 			<artifactId>spigot-api</artifactId>
-			<version>1.14.4-R0.1-SNAPSHOT</version>
-			<type>jar</type>
+			<version>1.17.1-R0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>de.diddiz</groupId>
@@ -99,8 +98,8 @@
 					<artifactId>maven-compiler-plugin</artifactId>
 					<version>3.7.0</version>
 					<configuration>
-						<source>8</source>
-						<target>8</target>
+						<source>16</source>
+						<target>16</target>
 					</configuration>
 				</plugin>
 			</plugins>
